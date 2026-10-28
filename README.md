@@ -26,7 +26,7 @@ Hold Left Option, tap a letter, let go. Your clipboard, windows, recent files, h
 
 <br>
 
-<a href="https://github.com/boyuchengz/canvas-mcp"><img src="assets/canvas-mcp.png" width="50%" align="left" alt="canvas-mcp: Claude or ChatGPT talks to canvas-mcp over MCP, and canvas-mcp talks to Canvas LMS with GET requests only."></a>
+<a href="https://github.com/boyuchengz/canvas-mcp"><img src="assets/canvas-mcp-card.png" width="50%" align="left" alt="canvas-mcp: Claude or ChatGPT talks to canvas-mcp over MCP, and canvas-mcp talks to Canvas LMS with GET requests only."></a>
 
 ### canvas-mcp
 
@@ -36,7 +36,7 @@ Ask Claude or ChatGPT about your Canvas courses in plain language. 26 tools, and
 
 <br clear="left">
 
-<a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema.png" width="50%" align="left" alt="Crema on iPhone: History, Today and Insights screens"></a>
+<a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema-card.png" width="50%" align="left" alt="Crema on iPhone: History, Today and Insights screens"></a>
 
 ### Crema
 
@@ -46,7 +46,7 @@ A coffee journal for iPhone. Log a cup in seconds and watch the day's caffeine f
 
 <br clear="left">
 
-<a href="https://pumpkin.boyucheng.me"><img src="assets/pumpkin-lights.png" width="50%" align="left" alt="Pumpkin Lights: a carved jack-o'-lantern, a pull ring and an Edison bulb hanging from the Mac menu bar"></a>
+<a href="https://pumpkin.boyucheng.me"><img src="assets/pumpkin-lights-card.png" width="50%" align="left" alt="Pumpkin Lights: a carved jack-o'-lantern, a pull ring and an Edison bulb hanging from the Mac menu bar"></a>
 
 ### Pumpkin Lights
 
