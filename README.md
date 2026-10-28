@@ -36,7 +36,7 @@ Ask Claude or ChatGPT about your Canvas courses in plain language. 26 tools, and
 
 <br clear="left">
 
-<a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema-2-card.png" width="50%" align="left" alt="Crema on iPhone: what a drink would do to tonight, Today with each drink's last call, and Trends"></a>
+<a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema-card-2.0.png" width="50%" align="left" alt="Crema on iPhone: what a drink would do to tonight, Today with each drink's last call, and Trends"></a>
 
 ### Crema
 
