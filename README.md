@@ -26,32 +26,35 @@ Hold Left Option, tap a letter, let go. Your clipboard, windows, recent files, h
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-      <a href="https://github.com/boyuchengz/canvas-mcp"><img src="assets/canvas-mcp.jpg" width="100%" alt="canvas-mcp: Claude or ChatGPT talks to canvas-mcp over MCP, and canvas-mcp talks to Canvas LMS with GET requests only."></a>
-    </td>
-    <td width="50%" valign="middle">
-      <h3>canvas-mcp</h3>
-      <p>Ask Claude or ChatGPT about your Canvas courses in plain language. 26 tools, and every one of them only reads: it can't submit, post, delete or mark anything as read.</p>
-      <a href="https://github.com/boyuchengz/canvas-mcp"><b>Repository</b></a> · <a href="https://boyucheng.me/blog/open-sourcing-canvas-mcp-a-read-only-canvas-connector">Why read-only</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema.jpg" width="100%" alt="Crema on iPhone: History, Today and Insights screens"></a>
-      <h3>Crema</h3>
-      <p>A coffee journal for iPhone. Log a cup in seconds and watch the day's caffeine fill up like a glass. Point the camera at a cup or a receipt and it fills in the rest, on device. No account, no ads.</p>
-      <a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/appstore.svg" height="40" alt="Download on the App Store"></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://pumpkin.boyucheng.me"><img src="assets/pumpkin-lights.jpg" width="100%" alt="Pumpkin Lights: a carved jack-o'-lantern, a pull ring and an Edison bulb hanging from the Mac menu bar"></a>
-      <h3>Pumpkin Lights</h3>
-      <p>A carved jack-o'-lantern, a bulb and a pull cord that hang from the menu bar and work as switches. Light the pumpkin and your Mac goes dark. They swing on real rope physics and tuck away when you're not using them.</p>
-      <a href="https://pumpkin.boyucheng.me"><b>pumpkin.boyucheng.me</b></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/boyuchengz/canvas-mcp"><img src="assets/canvas-mcp.png" width="50%" align="left" alt="canvas-mcp: Claude or ChatGPT talks to canvas-mcp over MCP, and canvas-mcp talks to Canvas LMS with GET requests only."></a>
+
+### canvas-mcp
+
+Ask Claude or ChatGPT about your Canvas courses in plain language. 26 tools, and every one of them only reads: it can't submit, post, delete or mark anything as read.
+
+**[Repository](https://github.com/boyuchengz/canvas-mcp)** · [Why read-only](https://boyucheng.me/blog/open-sourcing-canvas-mcp-a-read-only-canvas-connector)
+
+<br clear="left">
+
+<a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema.png" width="50%" align="left" alt="Crema on iPhone: History, Today and Insights screens"></a>
+
+### Crema
+
+A coffee journal for iPhone. Log a cup in seconds and watch the day's caffeine fill up like a glass. No account, no ads.
+
+**[Download on the App Store](https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757)**
+
+<br clear="left">
+
+<a href="https://pumpkin.boyucheng.me"><img src="assets/pumpkin-lights.png" width="50%" align="left" alt="Pumpkin Lights: a carved jack-o'-lantern, a pull ring and an Edison bulb hanging from the Mac menu bar"></a>
+
+### Pumpkin Lights
+
+A carved jack-o'-lantern, a bulb and a pull cord that hang from the menu bar and work as switches. Light the pumpkin and your Mac goes dark.
+
+**[pumpkin.boyucheng.me](https://pumpkin.boyucheng.me)**
+
+<br clear="left">
 
 <br>
 
