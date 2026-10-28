@@ -36,11 +36,11 @@ Ask Claude or ChatGPT about your Canvas courses in plain language. 26 tools, and
 
 <br clear="left">
 
-<a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema-card.png" width="50%" align="left" alt="Crema on iPhone: History, Today and Insights screens"></a>
+<a href="https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757"><img src="assets/crema-2-card.png" width="50%" align="left" alt="Crema on iPhone: what a drink would do to tonight, Today with each drink's last call, and Trends"></a>
 
 ### Crema
 
-A coffee journal for iPhone. Log a cup in seconds and watch the day's caffeine fill up like a glass. No account, no ads.
+Know when to have your last coffee. Crema estimates the caffeine still in your system and gives each of your drinks a last call before bedtime. No account, no ads.
 
 **[Download on the App Store](https://apps.apple.com/us/app/crema-caffeine-cup-log/id6819921757)**
 
