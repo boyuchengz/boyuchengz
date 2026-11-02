@@ -62,6 +62,6 @@ A carved jack-o'-lantern, a bulb and a pull cord that hang from the menu bar and
 
 **[Banvas](https://boyuchengz.github.io/banvas/)** · A fast, clean Canvas client for iPhone. In internal testing.
 
-**[Archer's Toolbox & Archer Guesser](https://apps.apple.com/us/developer/id1588531242)** · My first App Store releases, from high school.
+**[Archer's Toolbox & Archer's Five](https://apps.apple.com/us/developer/id1588531242)** · My first App Store releases. They recently got major updates.
 
 **[More on my website!](https://boyucheng.me)**
